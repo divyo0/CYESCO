@@ -1,0 +1,11 @@
+{
+  "target": "demo2.local",
+  "risk_level": "HIGH",
+  "risk_score": 11,
+  "open_ports": [
+    23,
+    3389,
+    8080
+  ],
+  "notes": "Sample report pack for dashboard history and AI summary testing."
+}

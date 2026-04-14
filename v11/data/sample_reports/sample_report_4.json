@@ -1,0 +1,11 @@
+{
+  "target": "demo4.local",
+  "risk_level": "MEDIUM",
+  "risk_score": 10,
+  "open_ports": [
+    3306,
+    22,
+    443
+  ],
+  "notes": "Sample report pack for dashboard history and AI summary testing."
+}
